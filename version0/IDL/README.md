@@ -9,7 +9,7 @@ For example,
 
 ```
 IDL> ints = euvst_ints2counts(977.02, 1.0E+3, 1.0, /verbose)
-    wavelength = 977.020 Angstrom
+     wavelength = 977.020 Angstrom
       intensity = 1000.00 erg/cm^2/s/sr
       intensity = 4.91e+13 ph/cm^2/s/sr
  effective area = 6.33 cm^2
